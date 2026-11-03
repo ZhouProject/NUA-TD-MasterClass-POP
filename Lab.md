@@ -10,12 +10,12 @@ Allow about 90 minutes. Do the four items in order: the first two are the POP pr
 
 ### Reading task
 
-| # | Item | Type | Time | Why |
-| --- | --- | --- | --- | --- |
-| 1 | Derivative, [Learning About POPs](https://docs.derivative.ca/Learning_About_POPs) | Official primer | 20 min | Points, primitives, vertices and attributes: the vocabulary for the whole day |
-| 2 | Derivative Curriculum, [Lesson 109: POPs, Working with Points](https://learn.derivative.ca/courses/100-fundamentals/lessons/109-pops-working-with-points/topic/fundamentals-of-pops/) | Short videos + example files | 30 min | Watch “Fundamentals of POPs” and “Using POP Attributes”; the rest is optional |
-| 3 | Tom Igoe, [Making Interactive Art: Set the Stage, Then Shut Up and Listen](https://www.tigoe.com/blog/category/physicalcomputing/405/) | Short essay | 10 min | Why an interactive piece should invite action rather than explain itself |
-| 4 | Bill Verplank, [Interaction Design Sketchbook](https://ccrma.stanford.edu/courses/250a-fall-2014/lectures/IDSketchbok.pdf) | Course notes | 20 min | Read the opening on Do, Feel and Know; we use it in the afternoon |
+| # | Item | Type | Why |
+| --- | --- | --- | --- |
+| 1 | Derivative, [Learning About POPs](https://docs.derivative.ca/Learning_About_POPs) | Official primer | Points, primitives, vertices and attributes: the vocabulary for the whole day |
+| 2 | Derivative Curriculum, [Lesson 109: POPs, Working with Points](https://learn.derivative.ca/courses/100-fundamentals/lessons/109-pops-working-with-points/topic/fundamentals-of-pops/) | Short videos + example files | Watch “Fundamentals of POPs” and “Using POP Attributes”; the rest is optional |
+| 3 | Tom Igoe, [Making Interactive Art: Set the Stage, Then Shut Up and Listen](https://www.tigoe.com/blog/category/physicalcomputing/405/) | Short essay | Why an interactive piece should invite action rather than explain itself |
+| 4 | Bill Verplank, [Interaction Design Sketchbook](https://ccrma.stanford.edu/courses/250a-fall-2014/lectures/IDSketchbok.pdf) | Course notes | Read the opening on Do, Feel and Know; we use it in the afternoon |
 
 ### Bring to class
 
@@ -24,29 +24,8 @@ Allow about 90 minutes. Do the four items in order: the first two are the POP pr
 
 ### Setup
 
-- [ ] Install the TouchDesigner 2025 Official build (2025.30000 series) or later. POPs are not in earlier Official builds.
-- [ ] Download the POPs Examples package (linked from Learning About POPs) and open `Overview.toe` once to check it runs.
 - [ ] Bring your Master Class 1 files, including the MediaPipe component, and a laptop with a webcam.
-- [ ] Check your graphics card: Derivative asks for 4 GB of graphics memory minimum, 8 GB recommended.
 
-## Session plan
-
-Six hours, 10:00–16:00, in four blocks. Each short concept block is followed straight away by a lab that uses it, and each lab file feeds the next.
-
-| Time | Block | Mode | Output |
-| --- | --- | --- | --- |
-| 10:00 | Recap and bridge from Master Class 1 | Talk | — |
-| 10:15 | 1 · POP foundations: points, primitives, attributes, the four verbs | Talk + demo | — |
-| 10:55 | Lab 1 · Image to points, rebuilt with POPs | Lab | lab1.toe |
-| 11:35 | Break | — | — |
-| 11:45 | 2 · Making points move: fields, feedback, particles, lines | Demo | — |
-| 12:10 | Lab 2 · Living points | Lab | lab2.toe |
-| 12:50 | Lunch | — | — |
-| 13:35 | 3 · Designing interaction: Do/Feel/Know, mapping, testing | Talk | — |
-| 14:00 | Lab 3 · Body to points (MediaPipe into POPs) | Lab | lab3.toe + Do/Feel/Know |
-| 14:40 | Choose a brief (short break) | — | — |
-| 14:50 | Studio sprint | Studio | Prototype |
-| 15:40 | Show and tell, 2 minutes each | Crit | Demo or 30 s recording |
 
 ## Lab tasks
 
