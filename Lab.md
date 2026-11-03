@@ -88,7 +88,7 @@ Choose one brief, or propose your own that follows the same rule: use at least *
 | C · The hidden portrait | An image becomes a point cloud that only resolves where a hand passes, and scatters again behind it | Image to points, MediaPipe | TOP to POP, Field, Noise | Two images, one revealed by each hand |
 | D · Out of the screen | The point system drives something physical or another app | Communication with external devices | DMX Fixture and DMX Out POPs, or POP to DAT for OSC out | A physical light that follows a virtual particle |
 
-### What to show at 15:40
+### What to show
 
 Two minutes each:
 
@@ -99,7 +99,7 @@ Two minutes each:
 
 ### After the session
 
-Upload to the Master Class 2 folder on the VLE: your `.toe` file (with any `.tox` components), the recording, and the three sentences. The prototype is not assessed; it is the starting point for your next project.
+Upload to the relevant files to GitHub.
 
 ## Further resources
 
@@ -140,14 +140,6 @@ Match the folder names and numbering to the Master Class 1 area.
 4. **Project briefs:** the four briefs and what to show.
 5. **Resources:** the further reading tables.
 6. **Submissions:** an upload point for `.toe`, recording and the three sentences.
-
-### Tutor checks before the day
-
-- [ ] Confirm the lab machines run the 2025 Official build or later, and have at least 4 GB of graphics memory.
-- [ ] Build and save the Lab 1–3 solution files in that exact build. POP parameter names changed during the experimental releases, so check each step’s wording against what students will see.
-- [ ] Check which version of the MediaPipe component students used in Master Class 1, and note its hand landmark channel names for Lab 3.
-- [ ] For Brief D, check that any DMX or LED hardware is available and patched, or drop that brief.
-- [ ] Put the POPs Examples package on a shared drive, in case the download is slow on the day.
 
 ## Sources
 
