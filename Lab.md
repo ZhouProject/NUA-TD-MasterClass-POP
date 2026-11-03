@@ -127,25 +127,3 @@ Optional, for after the session or for students who want to go further.
 | Andy Hunt and Marcelo Wanderley, “Mapping performer parameters to synthesis engines”, *Organised Sound* 7(2), 2002 | One-to-one, one-to-many and many-to-one mappings, and how they feel to perform | Library |
 | Dan Saffer, [*Microinteractions*](https://www.oreilly.com/library/view/microinteractions/9781449342760/) (O’Reilly, 2013) | Trigger, rules, feedback, loops: a checklist for a single interaction | Book; O’Reilly via library |
 | Kristina Höök, *Designing with the Body: Somaesthetic Interaction Design* (MIT Press, 2018) | Designing from felt, bodily experience rather than screens | Book |
-
-## VLE area and tutor checks
-
-### Suggested VLE area: “Master Class 2 — TouchDesigner POPs”
-
-Match the folder names and numbering to the Master Class 1 area.
-
-1. **Before the session:** the one-sentence description, the reading task and the setup checklist (the first section of this pack).
-2. **Slides:** the Master Class 2 deck, exported as PDF.
-3. **Lab files:** starter and solution `.toe` files for Labs 1–3.
-4. **Project briefs:** the four briefs and what to show.
-5. **Resources:** the further reading tables.
-6. **Submissions:** an upload point for `.toe`, recording and the three sentences.
-
-## Sources
-
-Operator behaviour and requirements are taken from these pages, checked on 3 November 2026.
-
-- Derivative, [2025 Official update](https://derivative.ca/community-post/2025-official-update/73153): POPs released in the 2025 Official build; 4 GB graphics memory minimum, 8 GB recommended.
-- Derivative, [New POPs lessons on learn.derivative.ca](https://derivative.ca/community-post/new-pops-lessons-learnderivativeca/74561): contents of Lesson 109.
-- Derivative docs: [Learning About POPs](https://docs.derivative.ca/Learning_About_POPs), [TOP to POP](https://docs.derivative.ca/TOP_to_POP), [CHOP to POP](https://docs.derivative.ca/CHOP_to_POP), [Field POP](https://docs.derivative.ca/Field_POP), [Noise POP](https://docs.derivative.ca/Noise_POP), [Particle POP](https://docs.derivative.ca/Particle_POP), [Feedback POP](https://docs.derivative.ca/Feedback_POP), [Force Radial POP](https://docs.derivative.ca/Force_Radial_POP), [Proximity POP](https://docs.derivative.ca/Proximity_POP), [Trail POP](https://docs.derivative.ca/Trail_POP), [Lookup Texture POP](https://docs.derivative.ca/Lookup_Texture_POP).
-- [mediapipe-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner) (Torin Blankensmith): the MediaPipe component for TouchDesigner.
