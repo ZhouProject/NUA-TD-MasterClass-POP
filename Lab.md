@@ -6,7 +6,7 @@ Jojo - z.zhou@norwichuni.ac.uk
 
 ## Before the session
 
-Allow about 90 minutes. Do the four items in order: the first two are the POP primer, the last two are about designing interaction.
+Allow some time to do the four items in order: the first two are the POP primer, the last two are about designing interaction.
 
 ### Reading task
 
